@@ -30,6 +30,9 @@ Anytime you want to run pong just run `$ ./pong` in your terminal.
 The arrow keys are used to control the game paddle and the 'Escape' exits the game.
 Failure to return the ball to your opponent results in your opponent gaining a point.
 Whoever has the highest score when the game ends wins.
+## License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project uses the Raylib library, which is licensed under the zlib/libpng license. See the [LICENSE_raylib.txt](https://github.com/raysan5/raylib/blob/master/LICENSE "Raylib License") file for details.
 ## Roadmap(*future features*).
 More refined game AI.
 Score tracking capabilities.
