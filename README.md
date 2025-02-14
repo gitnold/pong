@@ -14,7 +14,7 @@ Simple game AI that works(*most of the time!*).
 1. The [raylib library](https://github.com/raysan5/raylib?tab=readme-ov-file) and a C compiler of your choice need to be installed .
 2. Clone the repository.
 ```
-$ git clone https://github.com/gitnold/pong
+$ git clone https://github.com/gitnold/pong.git
 $ cd pong
 ```
 3. Make `./install.sh` executable by running the following command.
