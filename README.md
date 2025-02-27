@@ -38,4 +38,5 @@ More refined game AI.
 Score tracking capabilities.
 More refined  graphics and user experience.
 Sound effects.
+Cross platform builds.
 *more to be added later*
