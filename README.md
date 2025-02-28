@@ -37,7 +37,7 @@ $ ./pong.exe
 ```
 ### Binary Releases.
 **Windows.**
-Navigate to the [releases](https://github.com/gitnold/pong/releases "Releases page")page and download the precompiled binaries. All binaries are statically linked and require no external dependencies.
+Navigate to the [releases](https://github.com/gitnold/pong/releases "Releases page") page and download the precompiled binaries. All binaries are statically linked and require no external dependencies.
 ## How it works.
 The arrow keys are used to control the game paddle and the 'Escape' exits the game.
 Failure to return the ball to your opponent results in your opponent gaining a point.
