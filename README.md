@@ -11,7 +11,7 @@ Simple game AI that works(*most of the time!*).
 ## Installation
 ### Manual Installation.
 1. The [raylib library](https://github.com/raysan5/raylib?tab=readme-ov-file) and a C compiler of your choice need to be installed .
-**Linux or WSL environments**.
+#### Linux or WSL environments.
 1. Clone the repository.
 ```
 $ git clone https://github.com/gitnold/pong.git
@@ -26,7 +26,7 @@ $ chmod +x install.sh
 $ ./install.sh
 ```
 Anytime you want to run pong just run `$ ./pong` in your terminal where your executable is located.
-**Windows.**
+#### Windows.
 1.Compile the executable using a compiler of your choice.Below is an example using [gcc](https://gcc.gnu.org/install/download.html "Gcc installation page")
 ```
 $ gcc -o pong.exe pong.c -lraylib -lgdi32 -lwinmm
@@ -36,7 +36,7 @@ $ gcc -o pong.exe pong.c -lraylib -lgdi32 -lwinmm
 $ ./pong.exe
 ```
 ### Binary Releases.
-**Windows**.
+#### Windows.
 Navigate to the [releases](https://github.com/gitnold/pong/releases "Releases page") page and download the precompiled binaries. All binaries are statically linked and require no external dependencies.
 ## How it works.
 The arrow keys are used to control the game paddle and the 'Escape' exits the game.
