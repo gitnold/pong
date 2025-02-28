@@ -36,7 +36,7 @@ $ gcc -o pong.exe pong.c -lraylib -lgdi32 -lwinmm
 $ ./pong.exe
 ```
 ### Binary Releases.
-**Windows.**
+**Windows**.
 Navigate to the [releases](https://github.com/gitnold/pong/releases "Releases page") page and download the precompiled binaries. All binaries are statically linked and require no external dependencies.
 ## How it works.
 The arrow keys are used to control the game paddle and the 'Escape' exits the game.
