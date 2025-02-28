@@ -27,15 +27,17 @@ $ ./install.sh
 ```
 Anytime you want to run pong just run `$ ./pong` in your terminal where your executable is located.
 **Windows.**
-1.Compile the executable using a compiler of your choice.Below is an example using [gcc](https://gcc.gnu.org/install/download.html)
-```$ gcc -o pong.exe pong.c -lraylib -lgdi32 -lwinmm
+1.Compile the executable using a compiler of your choice.Below is an example using [gcc](https://gcc.gnu.org/install/download.html "Gcc installation page")
+```
+$ gcc -o pong.exe pong.c -lraylib -lgdi32 -lwinmm
 ```
 2.Run the executable.
-```$ ./pong.exe
 ```
-###Binary Releases.
+$ ./pong.exe
+```
+### Binary Releases.
 **Windows.**
-Navigate to the [releases]page and download the precompiled binaries. All binaries are statically linked and require no external dependencies.
+Navigate to the [releases](https://github.com/gitnold/pong/releases "Releases page")page and download the precompiled binaries. All binaries are statically linked and require no external dependencies.
 ## How it works.
 The arrow keys are used to control the game paddle and the 'Escape' exits the game.
 Failure to return the ball to your opponent results in your opponent gaining a point.
